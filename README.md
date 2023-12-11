@@ -64,7 +64,7 @@ I used start stations because the end station points provided a nearly indentica
 
 The grey circles on the map represent the stations, the larger the raduis of that circle the more the total trips were taken from that particular station.
 
-- We noticed that members used stations in the inner and coastal part of the city while casual riders used thier bikes mostly on the coast
+- We noticed that stations in the inner part of the city were more popular amongst member rider, while those in the coastal part of the city were more popular amongst casual riders.
 - Zooming in further into the maps, we realized the stations located closer to the universities and around the downtown areas were used by a majority of member riders, while those closer to muesems and parks were 
   used by a majority of the casual riders
 
