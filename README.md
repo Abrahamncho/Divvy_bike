@@ -47,8 +47,31 @@ Bike Usage Patterns of Casual vs. Membership Riders report from Oct 2022 - Oct 2
 
 ![](Divvy_bikeshare_report.png)
 
+Here, we can discover a few insights:
+- Out of the total 5 million trips, members had 3m of those trips and casual riders had 2m.
+- The avg trip duration for members was 12mins while that of casual riders was 16mins
+- Both rider types had a min trip duration of 1min minimum and a maximun of 59mins
+- The rental type donut chart shows the bike rental prefrence of each rider type. Here we notice that Classic bikes bikes are the most preferred, then followed by classic bike for both rider types, but casual 
+  riders also use docked bikes though it's the least preffered as compared to no docked bikes used at all for membership riders.
+- Looking at the Daily Avg trip duration, we notice that both riders have the longest trip duration on Saturdays and Sundays
+- The total trips by hr area chart shows us that member riders have two peak hours 8am and 5pm, while casual riders have a steady increase starting from 7am and peak at 5pm.
 
 
+![](Divvy_bikeshare_map.png)
+
+Using the Lat and Long data points provided in the dataset, I was able to generate a map showing us the start station with the most trip durations.
+I used start stations because the end station points provided a nearly indentical visual to that of the start station so the insights generated from both were thesame.
+
+The grey circles on the map represent the stations, the larger the raduis of that circle the more the total trips were taken from that particular station.
+
+- We noticed that members used stations in the inner and coastal part of the city while casual riders used thier bikes mostly on the coast
+- Zooming in further into the maps, we realized the stations located closer to the universities and around the downtown areas were used by a majority of member riders, while those closer to muesems and parks were 
+  used by a majority of the casual riders
+
+  ![](Zoomed_map.png)
+
+- The visual above shows us a zoomed in image of the station with the most trips, we notice that stations around the Univervity of Chicago school of medicine and the main camous of the University of Chicago had 
+  the station with member rider trips, while the stations around Gateway park and the Chicago Lakefront trail was more popular amongst the casual riders.
 
 
 
