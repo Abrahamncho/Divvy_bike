@@ -45,6 +45,11 @@ I used power query to combine the 12 csv files
 
 Bike Usage Patterns of Casual vs. Membership Riders report from Oct 2022 - Oct 2023 
 
+![](Divvy_bikeshare_report.png)
+
+
+
+
 
 
 
