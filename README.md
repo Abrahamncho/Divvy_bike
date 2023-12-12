@@ -84,10 +84,11 @@ The grey circles on the map represent the stations, the larger the raduis of tha
   ### Recommendation
 
 - Weekend Membership Promotions: Consider weekend specific membership plans or bonuses that align with the common hours on Thurs-Fri and Sat-Sun.
-- Enhance Coastal Station Experience: Upgrade bike availability,offer amenities for recreational riders,and highlight the scenic routes and recreational biking opportunities in coastal areas to attract more 
+- Enhance Coastal Station Experience: Offer amenities for recreational riders and highlight the scenic routes and recreational biking opportunities in coastal areas to attract more 
   members.
 - Event Sponsorship and Activation: Organize biking activities around museums and parks.
 - Membership Rewards Program: Introduce reward programs for members who consistently use the service during peak hours on the weekend.
+- Forge partnerships with universities and businesses in downtown areas to promote memberships among students and professionals who arent't already members.
   
 
   
