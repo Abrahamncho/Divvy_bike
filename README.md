@@ -88,7 +88,7 @@ The grey circles on the map represent the stations, the larger the raduis of tha
   members.
 - Event Sponsorship and Activation: Organize biking activities around museums and parks.
 - Membership Rewards Program: Introduce reward programs for members who consistently use the service during peak hours on the weekend.
-- Forge partnerships with universities and businesses in downtown areas to promote memberships among students and professionals who arent't already members.
+- Forge partnerships with universities and businesses in downtown areas to promote memberships among students and professionals who aren't already members.
   
 
   
