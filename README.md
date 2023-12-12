@@ -59,9 +59,9 @@ Here, we can discover a few insights:
 - The rental type donut chart shows the bike rental prefrence of each rider type. Here we notice that Classic bikes bikes are the most preferred, then followed by classic bike for both rider types, but casual 
   riders also use docked bikes though it's the least preffered as compared to no docked bikes used at all for membership riders.
 - Looking at the Daily Avg trip duration, we notice that both riders have the longest trip duration on Saturdays and Sundays.
-- The total trips by hr area chart shows us that member riders have two peak hours 8am and 5pm, while casual riders have a steady increase starting from 7am and peak at 5pm
-- Mon-Fri with peak hours at 8am and 5pm are the most popular amongts member riders, while Thurs-Sun are more common amongst Casual rider. Common hours from Thurs- Fri are 12pm-7pm and on Sat - Sun peak hours are 
-  10am-7pm.
+- The total trips by hr area chart shows us that member riders have two peak hours 8am and 5pm, while casual riders have a steady increase starting from 7am and peak at 5pm.
+- Mon-Fri with peak hours at 8am and 5pm are the most popular amongts member riders, while Thurs-Sun are more common amongst Casual rider. Common hours from Thurs- Fri are 12pm-7pm and on Sat - Sun peak hours 
+  are 10am-7pm.
 
 
 ![](Divvy_bikeshare_map.png)
@@ -72,8 +72,8 @@ I used start stations because the end station points provided a nearly indentica
 The grey circles on the map represent the stations, the larger the raduis of that circle the more the total trips were taken from that particular station.
 
 - We noticed that stations in the inner part of the city were more popular amongst member rider, while those in the coastal part of the city were more popular amongst casual riders.
-- Zooming in further into the maps, we realized the stations located closer to the universities and around the downtown areas were used by a majority of member riders, while those closer to muesems and parks were 
-  used by a majority of the casual riders.
+- Zooming in further into the maps, we realized the stations located closer to the universities and around the downtown areas were used by a majority of member riders, while those closer to muesems and parks 
+  were used by a majority of the casual riders.
 
   ![](Zoomed_map.png)
 
