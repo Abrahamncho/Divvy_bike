@@ -39,11 +39,11 @@ I used power query to combine the 12 csv files
 ### Data Transformation/Cleaning
 
 - All the rows having missing values were deleted.
-- Extracted Month of year, Day of week and Year from the started_at column 
-- Performed analytca ttramsformation of the dataset by adding a custom column "trip Duration"
+- Extracted Month of year, Day of week and Year from the started_at column. 
+- Performed analytca ttramsformation of the dataset by adding a custom column "trip Duration."
 - Trips with duration less than a minute and longer than a day are excluded.
 - A Total 1,375,912 rows were removed in this step.
-- Created a month order and day order column to assist with visualization of the data
+- Created a month order and day order column to assist with visualization of the data.
 
   
 ## Analyze
