@@ -13,7 +13,7 @@ In this case study, I will perform many real-world tasks of a junior data analys
 - Data Modeling: Single table
 
 
-### Problem Statement
+## Problem Statement
 
 How do annual members and casual riders use Cyclistic bikes differently?
 
@@ -46,7 +46,7 @@ I used power query to combine the 12 csv files
 - Created a month order and day order column to assist with visualization of the data
 
   
-### Analyze
+## Analyze
 
 Bike Usage Patterns of Casual vs. Membership Riders report from Oct 2022 - Oct 2023 
 
@@ -81,7 +81,7 @@ The grey circles on the map represent the stations, the larger the raduis of tha
   the station with member rider trips, while the stations around Gateway park and the Chicago Lakefront trail was more popular amongst the casual riders.
 
 
-  ### Recommendation
+  ## Recommendation
 
 - Weekend Membership Promotions: Consider weekend specific membership plans or bonuses that align with the common hours on Thurs-Fri and Sat-Sun.
 - Enhance Coastal Station Experience: Offer amenities for recreational riders and highlight the scenic routes and recreational biking opportunities in coastal areas to attract more 
