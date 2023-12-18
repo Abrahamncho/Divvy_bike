@@ -9,6 +9,7 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 ### Power BI Concepts Applied
 
+-  ETL Process:  Power Query
 - Dax Concepts: Calculated columns,Custom Columns
 - Data Modeling: Single table
 
