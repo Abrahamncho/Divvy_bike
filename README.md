@@ -9,9 +9,9 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 ### Power BI Concepts Applied
 
--ETL Process: Leveraged Power Query for efficient data extraction, transformation, and loading.
--DAX Concepts: Employed calculated and custom columns to derive meaningful insights.
--Data Modeling: Utilized a single-table approach for streamlined analysis.
+- ETL Process: Leveraged Power Query for efficient data extraction, transformation, and loading.
+- DAX Concepts: Employed calculated and custom columns to derive meaningful insights.
+- Data Modeling: Utilized a single-table approach for streamlined analysis.
 
 
 ## Problem Statement
